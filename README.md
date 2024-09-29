@@ -24,23 +24,28 @@ Before running the programs, make sure you have the following installed on your 
 1. Clone this repository to your local machine using:
    ```bash
    https://github.com/Sanath0106/Java-Programs.git
+   
+  
+2. Navigate to the specific program's directory that you wish to run.<br>
+   ```bash
    cd java-programs
-2. Navigate to the specific program's directory that you wish to run.
-  <b>Running the Programs<b>
-   <b>Using Command Line<b>
-   -Open your terminal or command prompt.
-   -Navigate to the directory containing the Java file you want to run:
--bash
-cd path/to/your/java-program
-
--Compile the Java program:
-javac YourProgram.java
-
+  <br>
+  <b>Running the Programs<b><br>
+   <b>Using Command Line<b><br>
+   -Open your terminal or command prompt.<br>
+    <br>
+     
+3.Navigate to the directory containing the Java file you want to run:
+  cd path/to/your/java-program
+<br>
+4.Compile the Java program:
+  javac YourProgram.java
+<br>
 -Run the compiled Java program:
 java YourProgram
-
-Using an IDE
-You can also run the Java programs using an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans. Here’s a general guide:
+<br>
+<b>Using an IDE<b><br>
+You can also run the Java programs using an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans. Here’s a general guide:<bt>
 
 IntelliJ IDEA:
 

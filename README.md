@@ -26,20 +26,14 @@ Before running the programs, make sure you have the following installed on your 
 2. Navigate to the specific program's directory that you wish to run.<br>
    ```bash
    cd java-programs
-  <br>
-  <b>Running the Programs</b>b><br>
-   <b>Using Command Line</b>><br>
-        -Open your terminal or command prompt.<br>
+   
 
-3.Navigate to the directory containing the Java file you want to run:<br>
-  cd path/to/your/java-program
-<br>
+3.Compile & Run th code<br>
+  ```bash
+  javac Filename.java   //compile
+  java Filename         //Running
 
-4.Compile the Java program:<br>
-  javac YourProgram.java
-<br>
 
-5.Run the compiled Java program:<br>
- java YourProgram
-<br>
+
+    
    

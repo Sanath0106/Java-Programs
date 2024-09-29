@@ -5,9 +5,6 @@ Welcome to my Java Programs repository! This repository contains a collection of
 ## Table of Contents
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Running the Programs](#running-the-programs)
-  - [Using Command Line](#using-command-line)
-  - [Using an IDE](#using-an-ide)
 
 ## Prerequisites
 

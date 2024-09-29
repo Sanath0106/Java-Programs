@@ -31,7 +31,7 @@ Before running the programs, make sure you have the following installed on your 
    cd java-programs
   <br>
   <b>Running the Programs<b><br>
-   <b>Using Command Line<b><br>
+   <b>Using Command Line</b>b><br>
    -Open your terminal or command prompt.<br>
     <br>
      
@@ -41,10 +41,10 @@ Before running the programs, make sure you have the following installed on your 
 4.Compile the Java program:
   javac YourProgram.java
 <br>
--Run the compiled Java program:
-java YourProgram
+5.Run the compiled Java program:
+ java YourProgram
 <br>
-<b>Using an IDE<b><br>
+<b>Using an IDE</b><br>
 You can also run the Java programs using an Integrated Development Environment (IDE) like IntelliJ IDEA, Eclipse, or NetBeans. Here’s a general guide:<bt>
 
 IntelliJ IDEA:

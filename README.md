@@ -28,7 +28,7 @@ Before running the programs, make sure you have the following installed on your 
    cd java-programs
    
 
-3.Compile & Run th code<br>
+3.Compile & Run the code.<br>
   ```bash
   javac Filename.java   //compile
   java Filename         //Running

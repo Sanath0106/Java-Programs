@@ -19,6 +19,7 @@ public class FibonacciRec {
             for (int i = 0; i < N; i++) {
                 System.out.print(fib(i) + " ");
             }
+            sc.close();
         }
     }
 

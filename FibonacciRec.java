@@ -1,5 +1,3 @@
-package prog.sorting;
-
 import java.util.Scanner;
 public class FibonacciRec {
         static int fib(int n)

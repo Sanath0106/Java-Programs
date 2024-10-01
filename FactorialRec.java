@@ -1,4 +1,3 @@
-package prog.sorting;
 import java.util.Scanner;
 public class FactorialRec {
     static int fact(int n) {

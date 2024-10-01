@@ -1,5 +1,3 @@
-package prog.sorting;
-
 import java.util.Scanner;
 
 public class TowerOFHanoi {
@@ -26,6 +24,7 @@ public class TowerOFHanoi {
         int n = sc.nextInt();
         int totalSteps = towerOfHanoi(n,"S","T","D");
         System.out.println("No. of Steps Taken : "+ totalSteps);
+        sc.close();
     }
 }
 

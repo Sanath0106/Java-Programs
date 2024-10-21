@@ -12,6 +12,7 @@ class CountSort {
         return max;
     }
 
+    @SuppressWarnings("ManualArrayToCollectionCopy")
     static void countSort(int[] arr){
         int n =  arr.length;
         int[] output = new int[n];

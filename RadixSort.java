@@ -10,12 +10,9 @@ class RadixSort {
         }
         return max;
     }
-
-    @SuppressWarnings("ManualArrayToCollectionCopy")
     static void countSort(int[] arr,int place){
         int n =  arr.length;
         int[] output = new int[n];
-        int max = findMax(arr);
         int[] count = new int [10];
 
         for(int i=0;i<arr.length;i++){ //frequency array
